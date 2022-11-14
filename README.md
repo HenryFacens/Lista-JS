@@ -4,5 +4,7 @@
 git clone https://github.com/HenryFacens/Lista-JS.git
 ```
 
-#### By Henry
+#### By :
+
+- Henry
 ---
